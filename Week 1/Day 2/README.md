@@ -21,7 +21,7 @@ In this repository, we'll walk you through the steps to create a Large Language 
   4. Prompt Engineering Principles
   5. Testing Your Prompt
 
-Complete the notebook in this repository, or head to [this notebook](https://colab.research.google.com/drive/1VMyF3WOCETYbRx01z99QBjycB4cRwquv?usp=sharing) and follow along with the instructions!
+Complete the notebook in this repository, or head to [this notebook](https://colab.research.google.com/drive/1ol4Q9u-L5SZJdDlFYGWsq1JWJ-LFKc5u?usp=sharing) and follow along with the instructions!
 
 
 - 🤝 Breakout Room #2:
