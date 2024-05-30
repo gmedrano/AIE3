@@ -50,7 +50,7 @@ Now we're going to add the class repository as an "upstream remote".
 First, we'll run this command: 
 
 ```bash
-git remote add upstream git@github.com:AI-Maker-Space/AI-Engineering-Cohort-2.git
+git remote add upstream git@github.com:AI-Maker-Space/AI-Engineering-3.git
 ```
 
 We can verify we were successful by using the command:
@@ -62,10 +62,10 @@ git remote -v
 You should see an output very similar to this (your origin will be a different address)
 
 ```
-origin  git@github.com:chris-alexiuk/AIE2.git (fetch)
-origin  git@github.com:chris-alexiuk/AIE2.git (push)
-upstream        git@github.com:AI-Maker-Space/AI-Engineering-Cohort-2.git (fetch)
-upstream        git@github.com:AI-Maker-Space/AI-Engineering-Cohort-2.git (push)
+origin  git@github.com:chris-alexiuk/AIE3.git (fetch)
+origin  git@github.com:chris-alexiuk/AIE3.git (push)
+upstream        git@github.com:AI-Maker-Space/AI-Engineering-3.git (fetch)
+upstream        git@github.com:AI-Maker-Space/AI-Engineering-3.git (push)
 ```
 
 Now, let's look at a diagram of how this works:
