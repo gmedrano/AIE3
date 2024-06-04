@@ -9,11 +9,13 @@
 
 ### Outline:
 
+🤜 BREAKOUT ROOM #1:
 - Task 1: Imports and Utilities
 - Task 2: Documents
 - Task 3: Embeddings and Vectors
 - Task 4: Prompts
 - Task 5: Retrieval Augmented Generation
+     - 🚧 ACTIVITY #1: Augment RAG
 - Task 6: Visibility Tooling
 - Task 7: RAG Evaluation Using GPT-4
 
