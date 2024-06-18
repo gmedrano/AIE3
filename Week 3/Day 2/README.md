@@ -13,7 +13,7 @@
 
 # Build 🏗️
 
-Run the notebook ([Colab link](https://colab.research.google.com/drive/1tWs1qiz2wbbzfYL7HsPKIA4uQhsZE9jc?usp=sharing)) and complete the contained tasks:
+Run the notebook ([Colab link](https://colab.research.google.com/drive/1CKkGGcxSqY4iHXHK_GE5EnGVBCMpZ0yV?usp=sharing)) and complete the contained tasks:
 
 - 🤝 Breakout Room #1:
   1. Install required libraries
