@@ -1,4 +1,4 @@
-chainlit==1.1.302
+chainlit==0.7.700
 langchain==0.2.5
 langchain_community==0.2.5
 langchain_core==0.2.9
