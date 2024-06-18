@@ -53,6 +53,8 @@ After which, make sure the advanced configuration is set like so:
 
 Follow the [notebook](https://colab.research.google.com/drive/1v1FYmvKH4gsqcdZwIT9wvbQe0GUjrc9d?usp=sharing) to create a LangChain pipeline powered by Hugging Face endpoints!
 
+Once you're done - please move on to Build Task 3!
+
 ### Build Task 3: Create a Chainlit Application
 
 1. Create a new empty Docker space through Hugging Face - with the following settings:
