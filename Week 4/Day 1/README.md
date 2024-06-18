@@ -59,6 +59,8 @@ Follow the notebook to create a LangChain pipeline powered by Hugging Face endpo
 
 ![image](https://i.imgur.com/0YzyQX7.png)
 
+> NOTE: You may notice the application builds slowly (~15min.) with the default free-tier hardware. The process will be faster using the `CPU upgrade` Space Hardware - though it is not required. 
+
 2. Clone the newly created space into a directory that is *NOT IN YOUR AI MAKERSPACE REPOSITORY* using the SSH option.
 
 > NOTE: You may need to ensure you've added your SSH key to Hugging Face, as well as GitHub. This should already be done.
@@ -88,6 +90,10 @@ Follow the notebook to create a LangChain pipeline powered by Hugging Face endpo
  6. Be sure to modify your `README.md` and `chainlit.md` as you see fit!
 
  > NOTE: If you get stuck, there is a working reference version in `solution_app.py`.
+
+ 7. When you are done with local testing - push your changes to your space. 
+
+ 8. Make sure you add your `HF_LLM_ENDPOINT`, `HF_EMBED_ENDPOINT`, `HF_TOKEN` as "Secrets" in your Hugging Face Space.
 
 ### Terminating Your Resources
 
