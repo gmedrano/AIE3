@@ -51,7 +51,43 @@ After which, make sure the advanced configuration is set like so:
 
 ### Build Task 2: Create RAG Pipeline with LangChain
 
-> NOTE: TO BE RELEASE FOR CLASS
+Follow the notebook to create a LangChain pipeline powered by Hugging Face endpoints!
+
+### Build Task 3: Create a Chainlit Application
+
+1. Create a new empty Docker space through Hugging Face - with the following settings:
+
+![image](https://i.imgur.com/0YzyQX7.png)
+
+2. Clone the newly created space into a directory that is *NOT IN YOUR AI MAKERSPACE REPOSITORY* using the SSH option.
+
+> NOTE: You may need to ensure you've added your SSH key to Hugging Face, as well as GitHub. This should already be done.
+
+![image](https://i.imgur.com/5RyBdP5.png)
+
+3. Copy and Paste (`cp ...` or through UI) the contents of `Week 4/Day 1` into the newly cloned repository. 
+
+> NOTE: Please keep the `README.md` that was cloned from your space and delete the class `README.md`.
+
+4. Using the `ls` command or the `tree` command verify that you have copied over: 
+ - `app.py`
+ - `Dockerfile`
+ - `data/paul_graham_essays.txt`
+ - `chainlit.md`
+ - `.gitignore`
+ - `.env.sample`
+ - `solution_app.py`
+ - `requirements.txt`
+
+ Here is an example as the `ls -al` CLI command: 
+
+ ![image](https://i.imgur.com/vazGYeb.png)
+
+ 5. Work through the `app.py` file to migrate your LCEL LangChain RAG Chain from the Notebook to Chainlit!
+
+ 6. Be sure to modify your `README.md` and `chainlit.md` as you see fit!
+
+ > NOTE: If you get stuck, there is a working reference version in `solution_app.py`.
 
 ### Terminating Your Resources
 
@@ -69,7 +105,7 @@ Example Screen Shot:
 
 ## Ship 🚢
 
-Create a Hugging Face Space powered by a SageMaker Endpoint!
+Create a Hugging Face Space powered by Hugging Face Endpoints!
 
 ### Deliverables
 
