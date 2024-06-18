@@ -51,7 +51,7 @@ After which, make sure the advanced configuration is set like so:
 
 ### Build Task 2: Create RAG Pipeline with LangChain
 
-Follow the notebook to create a LangChain pipeline powered by Hugging Face endpoints!
+Follow the [notebook](https://colab.research.google.com/drive/1v1FYmvKH4gsqcdZwIT9wvbQe0GUjrc9d?usp=sharing) to create a LangChain pipeline powered by Hugging Face endpoints!
 
 ### Build Task 3: Create a Chainlit Application
 

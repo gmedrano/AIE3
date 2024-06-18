@@ -59,6 +59,7 @@ if os.path.exists("./data/vectorstore"):
     print("Loaded Vectorstore")
 else:
     print("Indexing Files")
+    os.makedirs("./data/vectorstore", exist_ok=True)
     ### 4. INDEX FILES
     ### NOTE: REMEMBER TO BATCH THE DOCUMENTS WITH MAXIMUM BATCH SIZE = 32
 

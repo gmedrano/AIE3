@@ -1,5 +1,6 @@
 .env
 __pycache__/
 .chainlit
-vectorstore
+*.faiss
+*.pkl
 .files
