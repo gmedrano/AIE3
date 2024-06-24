@@ -3,7 +3,7 @@
      height="auto"/>
 </p>
 
-## <h1 align="center" id="heading">Fine-tuning Llama 3 8B Instruct.</h1>
+## <h1 align="center" id="heading">Fine-tuning Mistral-7B-Instruct-v0.2</h1>
 
 ### Steps to Run:
 
@@ -21,7 +21,7 @@ If you're running this locally - please ensure you have the correct hardware to 
 
 # Build 🏗️
 
-Run the notebook ([Colab link](https://colab.research.google.com/drive/1cFjVETMA9znxLJ9y3KeVjvIU64kIE0Lg?usp=sharing)) and complete the following.
+Run the notebook ([Colab link](https://colab.research.google.com/drive/137Y8Urjmn6WO_XctqvW6jfPG1oSi2w5D?usp=sharing)) and complete the following.
 
 The notebook will be broken into the following sections:
 
